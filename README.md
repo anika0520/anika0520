@@ -23,10 +23,10 @@
 <table align="center">
   <tr>
     <td align="center">
-      <img src="https://github-readme-streak-stats.herokuapp.com?user=annahunn20&theme=tokyonight&hide_border=false" />
+      <img src="https://github-readme-streak-stats.herokuapp.com?user=anika0520&theme=tokyonight&hide_border=false" />
     </td>
     <td align="center">
-      <img src="https://github-readme-stats.vercel.app/api?username=annahunn20&show_icons=true&theme=radical" />
+      <img src="https://github-readme-stats.vercel.app/api?username=anika0520&show_icons=true&theme=radical" />
     </td>
   </tr>
 </table>
@@ -36,7 +36,7 @@
 ## 🧠 Most Used Languages
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=annahunn20&layout=compact&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anika0520&layout=compact&theme=tokyonight" />
 </p>
 
 ---
@@ -44,7 +44,7 @@
 ## 🏆 GitHub Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=annahunn20&theme=tokyonight&no-frame=true&column=4" />
+  <img src="https://github-profile-trophy.vercel.app/?username=anika0520&theme=tokyonight&no-frame=true&column=4" />
 </p>
 
 ---
