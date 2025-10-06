@@ -8,7 +8,7 @@
   Driven by curiosity and innovation, I am eager to deepen my skills in <strong>Artificial Intelligence 🤖, Machine Learning 📊, Web Development 💻</strong>, and other emerging technologies shaping our future 🌟.
 </p>
 <p>
-  Outside the world of code, I love expressing creativity through <em>singing 🎤, sketching 🎨</em>, and experimenting in the kitchen with cooking 🍳.  
+  Outside the world of code, I love expressing creativity through <em>singing 🎤, sketching 🎨</em>, and capturing life through my lens📸.  
   I believe that a balanced life fuels better learning and innovation! 🚀
 </p>
 <p>
