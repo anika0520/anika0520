@@ -1,5 +1,3 @@
-<img src="https://capsule-render.vercel.app/api?type=venom&height=220&color=0:000000,100:a371f7&text=Anika%20Gangwar&fontSize=60&fontColor=FFFFFF&animation=fadeIn&fontAlignY=40&desc=Computer%20Science%20Student%20%7C%20AI%20%26%20Emerging%20Tech%20Enthusiast&descSize=22&descColor=FFFFFF&descAlignY=65" width="100%"/>
-
 <p align="center">
   <a href="https://komarev.com/ghpvc/?username=anika0520">
     <img src="https://komarev.com/ghpvc/?username=anika0520&label=Profile%20views&color=00FFFF&style=flat-square" alt="anika0520's profile views" />
@@ -28,10 +26,6 @@
 <p align="center">
   <img src="https://trophy.ryglcloud.net/?username=anika0520&theme=radical&no-frame=true&no-bg=true&margin-w=4&cache_seconds=86400" alt="Anika Gangwar's GitHub Trophies" />
 </p>
-<div align="center">
-  <img src="profile-3d-city.svg" alt="3D City" width="100%" />
-</div>
-
 
 ## 🛠️ Languages & Tools
 
