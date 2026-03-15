@@ -17,9 +17,7 @@
   </a>
   <img src="https://streak-stats.demolab.com/?user=anika0520&theme=radical&hide_border=true&cache_seconds=86400" alt="anika0520's GitHub Streak" width="49%" />
 </p>
-<p align="center">
-  <img src="https://trophy.ryglcloud.net/?username=anika0520&theme=radical&no-frame=true&no-bg=true&margin-w=4&cache_seconds=86400" alt="Anika Gangwar's GitHub Trophies" />
-</p>
+
 
 ## 🛠️ Languages & Tools
 
